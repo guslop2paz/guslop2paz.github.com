@@ -1,2 +1,2 @@
 # guslop2paz.github.com
-Proyecto integrador 1-c
+Primer proyecto integrador 1C
